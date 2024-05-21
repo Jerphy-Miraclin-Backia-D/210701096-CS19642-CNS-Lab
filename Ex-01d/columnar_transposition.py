@@ -1,6 +1,6 @@
 import math
  
-key = "JERIN"
+key = "JERPHY"
 
 def encryptMessage(msg):
     cipher = ""
